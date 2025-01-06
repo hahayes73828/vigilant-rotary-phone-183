@@ -1,16 +1,34 @@
-sideloading guide
+\	1.	install the portal installer:
+• open safari on your ios device.
+• navigate to https://whysoooofurios.netly.app.
+• follow the on-screen instructions to download and install the portal installer.
+• once installed, open the portal app from your home screen.
+	2.	install scarlet via portal:
+• in the portal app, tap on the “browse” tab.
+• search for “scarlet” in the search bar.
+• select “scarlet” from the search results.
+• tap the “get” button to download and install scarlet.
+• follow any additional on-screen instructions to complete the installation.
+	3.	install gbox via portal:
+• in the portal app, tap on the “browse” tab.
+• search for “gbox” in the search bar.
+• select “gbox” from the search results.
+• tap the “get” button to download and install gbox.
+• follow any additional on-screen instructions to complete the installation.
+	4.	sideload apps using scarlet or gbox:
+using scarlet:
+• open the scarlet app on your device.
+• tap the “+” icon to add an ipa file.
+• choose the source of the ipa file (e.g., files app, url).
+• once the ipa is added, tap “install” to sideload the app.
+• follow any additional prompts to complete the installation.
+using gbox:
+• open the gbox app on your device.
+• tap “import” to add an ipa file.
+• select the ipa file from your device storage.
+• after importing, tap “install” next to the app’s name.
+• follow any additional prompts to complete the installation.
 
-hello there and today we will steal your dat- we will jailbreak your device.
+note: ensure that you trust the developer profiles associated with scarlet and gbox. to do this, go to settings > general > device management, find the appropriate profile, and tap “trust.”
 
-first step is to download the app your viewing this in
-
-second step is to click on the "Configruation Profiles" button and select "madNS config profile"
-
-third step is to click on portal and click on "Portal - Continent" (if it doesnt work try the other ones until it works) 
-
-fourth step is to open this app again and click on "Certificates", you will be asked to download a folder, click yes and save it to files.
-
-fifth step is to open portal and click on "Downloads", then scroll down until you see "Scarlet" and remember how you tried each portal type until it worked? we have to use that now, for example if you clicked "Portal - Insurance" you would have to click on "Scarlet - Insurance"
-open the scarlet app, click the upload button, hold on the button on the top right of your screen and click "Certificates" and go to the folder you downloaded, click on the folder with the name of the type of portal you downloaded (ex: continent, insurance, etc..) and select "name.p12" and then click on "Import provisioning profile" and navigate ti the folder you were just in and click on "name.mobileprovision"
-
-abracadabra you have hacked your device / by @fouadfawas 
+❤️ by @fouadfawas ❤️
